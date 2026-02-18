@@ -23,6 +23,8 @@ const stores = [
     image: 'https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800&q=80',
     description: 'Frosted glass panels, luminous gradients, and floating elements. Transparent luxury meets digital elegance in every interaction.'
   },
+
+  
   {
     id: 'nbrut', name: 'NBRÜT.', subtitle: 'Ugly Is Beautiful', style: 'Neo-Brutalism',
     colors: ['#FEF9EF', '#FF5252', '#FFD740', '#69F0AE'],
