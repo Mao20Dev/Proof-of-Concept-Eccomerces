@@ -23,7 +23,7 @@ export default function App() {
   return (<><ScrollToTop /><Routes>
     <Route path="/" element={<Portfolio />} />
     <Route path="/rvlt/*" element={<Grunge />} />
-    <Route path="/frmat/*" element={<Maximalism />} />
+    {/* <Route path="/frmat/*" element={<Maximalism />} /> */}
     <Route path="/glss/*" element={<Glass />} />
     <Route path="/nbrut/*" element={<NeoBrut />} />
     <Route path="/snth/*" element={<Synth />} />

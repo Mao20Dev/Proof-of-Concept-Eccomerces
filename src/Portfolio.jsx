@@ -9,13 +9,13 @@ const stores = [
     image: 'https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&q=80',
     description: 'Torn paper textures, distorted typography, spray paint accents, and rebellious underground energy. Anti-fashion for those who never fit in.'
   },
-  {
-    id: 'frmat', name: 'FRMΛT.', subtitle: 'Maximum Everything', style: 'Maximalism',
-    colors: ['#0A0A0A', '#FF0066', '#0057FF', '#E8FF00'],
-    font: 'Unbounded + Space Mono',
-    image: 'https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800&q=80',
-    description: 'Sensory overload with clashing neons, kinetic typography, overlapping color blocks, and controlled chaos. We said no to boring.'
-  },
+  // {
+  //   id: 'frmat', name: 'FRMΛT.', subtitle: 'Maximum Everything', style: 'Maximalism',
+  //   colors: ['#0A0A0A', '#FF0066', '#0057FF', '#E8FF00'],
+  //   font: 'Unbounded + Space Mono',
+  //   image: 'https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800&q=80',
+  //   description: 'Sensory overload with clashing neons, kinetic typography, overlapping color blocks, and controlled chaos. We said no to boring.'
+  // },
   {
     id: 'glss', name: 'GLSS.', subtitle: 'Clarity Through Design', style: 'Glassmorphism',
     colors: ['#0c0a1a', '#8B5CF6', '#38BDF8', '#EC4899'],
